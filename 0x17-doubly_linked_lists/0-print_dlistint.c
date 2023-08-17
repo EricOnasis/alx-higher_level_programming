@@ -1,8 +1,5 @@
 #include "lists.h"
 
-#include "lists.h"
-#include <stdio.h>
-
 /**
  * print_dlistint - print all the elements of a dlistint_t list
  * @h: pointer to the start of a linked list
