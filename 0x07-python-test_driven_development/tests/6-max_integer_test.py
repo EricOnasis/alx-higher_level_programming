@@ -47,5 +47,11 @@ class TestMaxInteger(unittest.TestCase):
         one_element = [7]
         self.assertEqual(max_integer(one_element), 7)
 
+    def test_max_at_end(self):
+        """Tests for maximum value at the end of the list"""
+        n = [10, 5, 20, 15, 25]
+        self.assertEqual(max_integer(n), 25)
+
+
 if __name__ == "__main__":
     unittest.main()
