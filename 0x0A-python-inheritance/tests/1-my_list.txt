@@ -1,0 +1,27 @@
+Usage
+======
+
+Importing the function from the module:
+        >>> MyList = __import__("1-my_list").MyList
+
+Checking for inheritance:
+	 >>> issubclass(MyList, list)
+	 True
+
+Checking for empty list:
+	 >>> l = MyList()
+	 >>> l.print_sorted()
+	 []
+
+Checking the append method:
+	 >>> l.append(1)
+	 >>> l.append(2)
+	 >>> l.append(3)
+	 >>> l.append(4)
+	 >>> print(l)
+	 [1, 2, 3, 4]
+
+Checking for list that's already sorted:
+	 >>> l.print_sorted()
+	 [1, 2, 3, 4]
+
