@@ -93,5 +93,4 @@ class Rectangle(Base):
         st_id = self.id
         st_x = self.__x
         st_y = self.__y
-        return "[Rectangle] ({}) {}/{} - {}/{}".format(st_id,
-                                                       st_x, st_y, st_width, st_height)
+        return f"[Rectangle] ({st_id}) {st_x}/{st_y} - {st_width}/{st_height}"
