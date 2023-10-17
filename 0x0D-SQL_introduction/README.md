@@ -48,6 +48,5 @@
 | 12. Cheating is bad | [12-no_cheating.sql](./12-no_cheating.sql) |
 | 13. Score too low | [13-change_class.sql](./13-change_class.sql) |
 | 14. Average | [14-average.sql](./14-average.sql) |
-| 15. Number by score | [15-groups.sql](./15-groups.sql) |
 | 16. Say my name | [16-no_link.sql](./16-no_link.sql) |
 | 20. Temperatures #2 | [103-max_state.sql](./103-max_state.sql) |
