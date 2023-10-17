@@ -32,7 +32,7 @@
 
 | Task | File |
 | ---- | ---- |
-| 0. README, AUTHORS | [SOON](./) |
+| 0. README, AUTHORS | [README](https://github.com/EricOnasis/alx-higher_level_programming/blob/main/0x0D-SQL_introduction/README.md) |
 | 1. Be pycodestyle compliant! | [SOON](./) |
 | 2. Unittests | [SOON](./) |
 | 3. BaseModel | [SOON](./) |
