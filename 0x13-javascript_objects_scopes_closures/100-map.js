@@ -1,4 +1,4 @@
-!/usr/bin/node
+#!/usr/bin/node
 
 const arr = require('./100-data').list;
 
